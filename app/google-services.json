@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "169186577270",
+    "firebase_url": "https://azeda-154a0.firebaseio.com",
+    "project_id": "azeda-154a0",
+    "storage_bucket": "azeda-154a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169186577270:android:ef6d72cb060e2811",
+        "android_client_info": {
+          "package_name": "cl.azeda.www.azedaadministracion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "169186577270-ee0ks10k8old9lo9i7np9tuuq91jd6l5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTnuxpnN4V59WKF3CVYMiKW6fipjL_Tw0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
