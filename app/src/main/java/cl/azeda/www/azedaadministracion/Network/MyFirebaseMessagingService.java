@@ -17,7 +17,7 @@ import com.firebase.jobdispatcher.Job;
 import com.google.firebase.messaging.FirebaseMessagingService;
 import com.google.firebase.messaging.RemoteMessage;
 
-import cl.azeda.www.azedaadministracion.MensajesActivity;
+import cl.azeda.www.azedaadministracion.Activities.MensajesActivity;
 import cl.azeda.www.azedaadministracion.R;
 
 
